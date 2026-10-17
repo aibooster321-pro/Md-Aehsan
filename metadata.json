@@ -1,0 +1,8 @@
+{
+  "name": "GNIOT Campus Care - Grievance & AKTU Escalation Portal",
+  "description": "Campus grievance portal for GNIOT affiliated with AKTU. Students submit inquiries with instant tracking IDs, college admin monitors SLA, and unresolved issues auto-escalate to AKTU after 7 days.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
